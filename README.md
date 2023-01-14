@@ -1,2 +1,2 @@
-# new-portfolio
-My new portfolio
+# my-resume
+My own resume
