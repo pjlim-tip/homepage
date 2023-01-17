@@ -1,2 +1,2 @@
-# my-resume
+# homepage
 My own website
